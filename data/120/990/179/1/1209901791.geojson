@@ -61,7 +61,7 @@
         "wk:page":"Ath_Thaqab"
     },
     "wof:country":"QA",
-    "wof:geomhash":"a0611548cef01ae01178253c70486eee",
+    "wof:geomhash":"e894872c413ff9739bc89b3bfe4385fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     51.11512000000001,
     26.03153
 ],
-  "geometry": {"coordinates":[51.11512000000001,26.03153],"type":"Point"}
+  "geometry": {"coordinates":[51.11512,26.03153],"type":"Point"}
 }

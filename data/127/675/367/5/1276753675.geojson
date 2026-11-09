@@ -53,7 +53,7 @@
         "gn:id":289516
     },
     "wof:country":"QA",
-    "wof:geomhash":"ab2c35d9a9220fa17e020d2506f5e832",
+    "wof:geomhash":"8d2d3f65722822c8dc4ab002229ff57a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     51.37544000000001,
     25.49366
 ],
-  "geometry": {"coordinates":[51.37544000000001,25.49366],"type":"Point"}
+  "geometry": {"coordinates":[51.37544,25.49366],"type":"Point"}
 }

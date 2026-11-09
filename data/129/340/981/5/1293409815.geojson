@@ -62,7 +62,7 @@
         "wk:page":"Al_%60Adhbah"
     },
     "wof:country":"QA",
-    "wof:geomhash":"3fc5cde0705a4365eb3b727d515d90e8",
+    "wof:geomhash":"62a5721ce85d757f17eecfba07a6be8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     51.31874000000001,
     26.05151
 ],
-  "geometry": {"coordinates":[51.31874000000001,26.05151],"type":"Point"}
+  "geometry": {"coordinates":[51.31874,26.05151],"type":"Point"}
 }
