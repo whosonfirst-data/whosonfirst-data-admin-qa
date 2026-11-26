@@ -1,0 +1,75 @@
+{
+  "id": 9895008387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.5075,25.4175,51.5075,25.4175",
+    "geom:latitude":25.4175,
+    "geom:longitude":51.5075,
+    "gn:population":198600,
+    "iso:country":"QA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13512674: name \"Lusail\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13512674"
+        },
+        {
+            "citation":"GeoNames populated place 13512674: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13512674"
+        },
+        {
+            "citation":"GeoNames populated place 13512674: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13512674"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108757963 (Jabal Thuaileb/Al Kharayej/Lusail/Al Egla/Wadi Al Banat), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632299,
+        85676781,
+        102191569,
+        1108757963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13512674
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"242eb8575bd47e66a931f35cb1d2f978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108757963,
+            "locality_id":9895008387,
+            "region_id":85676781
+        }
+    ],
+    "wof:id":9895008387,
+    "wof:lastmodified":1795733042,
+    "wof:name":"Lusail",
+    "wof:parent_id":1108757963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.5075,
+    25.4175,
+    51.5075,
+    25.4175
+],
+  "geometry": {"coordinates":[51.5075,25.4175],"type":"Point"}
+}
